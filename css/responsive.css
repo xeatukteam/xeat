@@ -1,0 +1,384 @@
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
+
+  .arrow-slick1 {
+    width: 30px !important;
+    height: 30px !important;
+    top: 65%;
+  }
+
+  .wrap-slick1-dots {
+    height: 24px !important;
+  }
+
+  .item-slick1 {
+    position: relative;
+    margin-top: 100px;
+    height: 220px !important;
+  }
+
+  .item-slick2 {
+    position: relative;
+    height: 220px !important;
+  }
+
+  .item-slick1 img {
+    height: 100%;
+  }
+
+  .item-slick2 img {
+    margin-top: 100px;
+    width: 100%;
+  }
+
+  .appbanner img {
+    height: 220px !important;
+    width: 100%;
+  }
+
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+
+  .arrow-slick1 {
+    width: 30px !important;
+    height: 30px !important;
+    top: 65%;
+  }
+
+  .wrap-slick1-dots {
+    height: 24px !important;
+  }
+  .item-slick1 {
+    margin-top: 100px;
+    height: 220px !important;
+  }
+
+  .item-slick2 {
+    height: 220px !important;
+  }
+
+  .item-slick1 img {
+    height: 100%;
+  }
+
+  .item-slick2 img {
+    margin-top: 100px;
+    width: 100%;
+  }
+
+  .appbanner img {
+    height: 220px !important;
+    width: 100%;
+  }
+
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+
+  .arrow-slick1 {
+    width: 30px !important;
+    height: 30px !important;
+    top: 65%;
+  }
+
+  .wrap-slick1-dots {
+    height: 24px !important;
+  }
+
+  .item-slick1 {
+    margin-top: 100px;
+    height: 220px !important;
+  }
+
+  .item-slick2 {
+    height: 220px !important;
+  }
+
+  .item-slick1 img {
+    height: 100%;
+  }
+
+  .item-slick2 img {
+    margin-top: 100px;
+    width: 100%;
+  }
+
+  .appbanner img {
+    height: 220px !important;
+    width: 100%;
+  }
+
+}
+
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
+
+  .arrow-slick1 {
+    width: 30px !important;
+    height: 30px !important;
+    top: 65%;
+  }
+
+  .wrap-slick1-dots {
+    height: 24px !important;
+  }
+
+  
+  .item-slick1 {
+    margin-top: 100px;
+    height: 220px !important;
+  }
+
+  .item-slick2 {
+    height: 220px !important;
+  }
+
+  .item-slick1 img {
+    height: 100%;
+  }
+
+  .item-slick2 img {
+    margin-top: 100px;
+    width: 100%;
+  }
+
+  .appbanner img {
+    height: 220px !important;
+    width: 100%;
+  }
+
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+
+  .arrow-slick1 {
+    width: 30px !important;
+    height: 30px !important;
+    top: 65%;
+  }
+
+  .wrap-slick1-dots {
+    height: 24px !important;
+  }
+
+  .item-slick1 {
+    margin-top: 100px;
+    height: 220px !important;
+  }
+
+  .item-slick2 {
+    height: 220px !important;
+  }
+
+  .item-slick1 img {
+    height: 100%;
+  }
+
+  .item-slick2 img {
+    margin-top: 100px;
+    width: 100%;
+  }
+
+  .appbanner img {
+    height: 220px !important;
+    width: 100%;
+  }
+
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: landscape) {
+
+  .arrow-slick1 {
+    width: 30px !important;
+    height: 30px !important;
+    top: 65%;
+  }
+
+  .wrap-slick1-dots {
+    height: 24px !important;
+  }
+
+  .item-slick1 {
+    margin-top: 100px;
+    height: 220px !important;
+  }
+
+  .item-slick2 {
+    height: 220px !important;
+  }
+
+  .item-slick1 img {
+    height: 100%;
+  }
+
+  .item-slick2 img {
+    margin-top: 100px;
+    width: 100%;
+  }
+
+  .appbanner img {
+    height: 220px !important;
+    width: 100%;
+  }
+
+}
+
+/* ----------- iPhone X ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) {
+
+  .arrow-slick1 {
+    width: 30px !important;
+    height: 30px !important;
+    top: 65%;
+  }
+
+  .wrap-slick1-dots {
+    height: 24px !important;
+  }
+
+  .item-slick1 {
+    margin-top: 100px;
+    height: 220px !important;
+  }
+
+  .item-slick2 {
+    height: 220px !important;
+  }
+
+  .item-slick1 img {
+    height: 100%;
+  }
+
+  .item-slick2 img {
+    margin-top: 100px;
+    width: 100%;
+  }
+
+  .appbanner img {
+    height: 220px !important;
+    width: 100%;
+  }
+
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+  .arrow-slick1 {
+    width: 30px !important;
+    height: 30px !important;
+    top: 65%;
+  }
+
+  .wrap-slick1-dots {
+    height: 24px !important;
+  }
+
+  .item-slick1 {
+    margin-top: 100px;
+    height: 220px !important;
+  }
+
+  .item-slick2 {
+    height: 220px !important;
+  }
+
+  .item-slick1 img {
+    height: 100%;
+  }
+
+  .item-slick2 img {
+    margin-top: 100px;
+    width: 100%;
+  }
+
+  .appbanner img {
+    height: 220px !important;
+    width: 100%;
+  }
+
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: landscape) {
+
+  .arrow-slick1 {
+    width: 30px !important;
+    height: 30px !important;
+    top: 65%;
+  }
+
+  .wrap-slick1-dots {
+    height: 24px !important;
+  }
+
+  .item-slick1 {
+    margin-top: 100px;
+    height: 220px !important;
+  }
+
+  .item-slick2 {
+    height: 220px !important;
+  }
+
+  .item-slick1 img {
+    height: 100%;
+  }
+
+  .item-slick2 img {
+    margin-top: 100px;
+    width: 100%;
+  }
+
+  .appbanner img {
+    height: 220px !important;
+    width: 100%;
+  }
+
+}
+
+
+@media only screen and (max-device-width: 480px) {
+  
+  .arrow-slick1 {
+    width: 30px !important;
+    height: 30px !important;
+    top: 65%;
+  }
+
+  .wrap-slick1-dots {
+    height: 24px !important;
+  }
+  .item-slick1 {
+    margin-top: 100px !important;
+    height: 170px;
+  }
+
+  .item-slick2 {
+    height: 220px !important;
+  }
+
+  .item-slick1 img {
+    height: 100%;
+  }
+
+  .item-slick2 img {
+    margin-top: 100px;
+    width: 100%;
+  }
+
+  .appbanner img {
+    height: 220px !important;
+    width: 100%;
+  }
+}
